@@ -1,0 +1,15 @@
+{
+  "name": "Shift-Bot EJ",
+  "version": "1.0.0",
+  "description": "Shift Discord Bot for EJ ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.6",
+    "dotenv": "^16.3.1"
+  }
+}
